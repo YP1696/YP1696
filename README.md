@@ -23,10 +23,8 @@
 
 <p >
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yp1696&show_icons=true&locale=en&layout=compact" alt="yp1696" />
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yp1696&" alt="yp1696" />
- </p>
+</p>
 
-<p></p>
 </p>
 
 
